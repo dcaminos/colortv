@@ -8,7 +8,7 @@ For this project I used [Redux](https://redux.js.org/)  to manage app state and 
 ## Installation
 
 ```bash
-yarn
+yarn install
 pushd ios && pod install && popd
 yarn react-native run-ios
 yarn react-native run-android
